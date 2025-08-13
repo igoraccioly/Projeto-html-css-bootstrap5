@@ -1,0 +1,182 @@
+/* Inicio do css da pagina "home" */
+.body{
+    background-color:#EDEBE6;
+}
+.logo{
+    max-width: 100px !important;
+}
+.evom-section {
+    background-image: url('/Users/igoraccioly/Desktop/Projetos-pessoais/veigh-website/img/foto-home-menor.png');
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px;
+    overflow: hidden;
+    border-radius: 20px;
+    margin-top: -40px;
+    background-color: rgba(0, 0, 0, 0.9);
+    box-shadow: 0px 0px 14px 2px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 0px 0px 14px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 14px 2px rgba(0,0,0,0.75);
+}
+    
+  .main hr{
+    border: none;
+  height: 2px;
+  background: linear-gradient(45deg, #8d171e, #200103);
+  opacity: 1;
+  }
+  .h1-dppm{
+    font-family: "Cinzel", serif;
+    font-weight: 800;
+    font-weight: bold;
+  }
+.nav-link{
+    color: #55080D !important;
+}
+.foto-1-veigh{
+    height: 600px !important;
+    border-radius: 19px 20px 149px 21px;
+    -webkit-border-radius: 19px 20px 149px 21px;
+    -moz-border-radius: 19px 20px 149px 21px;
+    box-shadow: 1px 3px 17px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 1px 3px 17px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 3px 17px 0px rgba(0,0,0,0.75);
+
+}
+.h2-sobre{
+    color:#000000 !important;
+    text-shadow: 1px 2px 9px rgba(85,9,14,0.6);
+    font-size: 75px !important;
+}
+
+.sobre-veigh-col p{
+    font-size: 25px;
+    font-weight: lighter;
+    margin-top: 30px;
+}
+.albuns{
+    text-align: center;
+    font-family: "Cinzel", serif;
+    align-content: center!important;
+}
+.ultimos-albuns{
+    color:#000000 !important;
+    text-shadow: 1px 2px 9px rgba(85,9,14,0.6);
+}
+.footer{
+    color: white;
+    background: linear-gradient(45deg, #55080D, #200103);
+}
+.pp-footer{
+    text-decoration: underline;
+}
+.fa-twitter{
+    color: white;
+}
+.veigh-foto-2{
+    border-radius: 12px;
+}
+.img-home-final-pag{
+    box-shadow: 0px 0px 26px -5px rgba(0,0,0,1);
+    -webkit-box-shadow: 0px 0px 26px -5px rgba(0,0,0,1);
+    -moz-box-shadow: 0px 0px 26px -5px rgba(0,0,0,1);
+}
+/* final do css da pagina "home" */
+
+/* inicio do css da pagina "contactos */
+.btn-enviar-form{
+    color: white !important;
+    background-color:#55080D !important;
+}
+/* fim do css da pagina "contactos" */
+
+/* Inicio do css da pagina "sobre" */
+@media (min-width: 836px){
+    .row-sobre-texto{
+       max-width: 600px; /* limita a largura do bloco de texto */
+       margin: 0 auto !important; /* centraliza dentro da row */
+   }
+}
+.veigh-foto-2{
+    padding: 0;
+    border-radius: 12px;
+    box-shadow: 0px 0px 26px -5px rgba(0,0,0,1);
+    -webkit-box-shadow: 0px 0px 26px -5px rgba(0,0,0,1);
+    -moz-box-shadow: 0px 0px 26px -5px rgba(0,0,0,1);
+}
+.veigh1-sobre{
+    width: 600px;
+    border-radius: 12px;
+    box-shadow: 0px 0px 26px -5px rgba(0,0,0,1);
+    -webkit-box-shadow: 0px 0px 26px -5px rgba(0,0,0,1);
+    -moz-box-shadow: 0px 0px 26px -5px rgba(0,0,0,1);
+}
+.italico{
+    font-style: italic;
+}
+/* fim do css da pagina "sobre" */
+
+/* Inicio do css da pagina "album"*/
+
+.pag-album{
+    border-radius: 20px !important;
+    box-shadow: 0px 0px 26px -5px rgba(0,0,0,1);
+    -webkit-box-shadow: 0px 0px 26px -5px rgba(0,0,0,1);
+    -moz-box-shadow: 0px 0px 26px -5px rgba(0,0,0,1);
+}
+.main iframe{
+    box-shadow: 0px 0px 26px -5px rgba(0,0,0,1);
+    -webkit-box-shadow: 0px 0px 26px -5px rgba(0,0,0,1);
+    -moz-box-shadow: 0px 0px 26px -5px rgba(0,0,0,1);
+}
+/* fim do css da pagina "album"*/
+
+/* inicio do css da pagina "tour"*/
+.bold-tour{
+    font-size: 50px;
+    font-weight: bold;
+}
+.bold-tour-setembro{
+    font-size: 40px;
+    font-weight: bold;
+}
+.bold-tour-outubro{
+    font-size: 44px;
+    font-weight: bold;
+}
+.hr-pag-eventos{
+    width: 50%;
+    margin: auto;
+}
+.pag-tour-img{
+    border-radius: 20px !important;
+    width: 216px;
+    height: 220px;
+    box-shadow: 0px 0px 26px -5px rgba(0,0,0,1);
+    -webkit-box-shadow: 0px 0px 26px -5px rgba(0,0,0,1);
+    -moz-box-shadow: 0px 0px 26px -5px rgba(0,0,0,1);
+}
+.pag-tour-img-rap{
+    border-radius: 20px !important;
+    width: 216px;
+    height: 220px;
+    box-shadow: 0px 0px 26px -5px rgba(0,0,0,1);
+    -webkit-box-shadow: 0px 0px 26px -5px rgba(0,0,0,1);
+    -moz-box-shadow: 0px 0px 26px -5px rgba(0,0,0,1);
+}
+.botao-tour {
+    background-color: #55080D;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  .botao-tour:hover {
+    background-color: #770c14; /* tom mais claro no hover */
+    transform: scale(1.05);
+  }
