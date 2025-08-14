@@ -46,7 +46,7 @@
 }
 .h2-sobre{
     color:#000000 !important;
-    text-shadow: 1px 2px 9px rgba(85,9,14,0.6);
+    text-shadow: 1px 2px 9px rgba(0, 0, 0, 0.6);
     font-size: 75px !important;
 }
 
@@ -62,7 +62,7 @@
 }
 .ultimos-albuns{
     color:#000000 !important;
-    text-shadow: 1px 2px 9px rgba(85,9,14,0.6);
+    text-shadow: 1px 2px 9px rgba(0, 0, 0, 0.6);
 }
 .footer{
     color: white;
@@ -75,7 +75,6 @@
     color: white;
 }
 .veigh-foto-2{
-    inherits:  ;
     border-radius: 12px;
 }
 .img-home-final-pag{
