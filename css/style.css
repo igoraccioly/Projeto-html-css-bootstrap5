@@ -75,6 +75,7 @@
     color: white;
 }
 .veigh-foto-2{
+    inherits:  ;
     border-radius: 12px;
 }
 .img-home-final-pag{
